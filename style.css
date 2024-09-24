@@ -28,7 +28,6 @@ main {
     max-width: 90%;
 }
 
-img {
-    max-width: 90%;
-    max-height: 10%;
+.img {
+    width: 90px;
 }
