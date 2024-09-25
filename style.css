@@ -23,9 +23,9 @@ button {
     display:block;
 }
 .passo.ativo img{
-    max-height: 0%;
+    max-height: 50%;
     max-width: 50%;
-    height: 1000px;
+    height: 500px;
     width: auto;
     
 
