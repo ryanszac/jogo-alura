@@ -22,6 +22,9 @@ button {
 .passo.ativo {
     display:block;
 }
+.passo.ativo img{
+    max-height: 80%;
+}
 
 main {
     text-align: center;
